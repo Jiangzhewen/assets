@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- top face -->
+  <polygon points="128,56 184,88 128,120 72,88"/>
+  <!-- left face -->
+  <polygon points="72,88 128,120 128,184 72,152"/>
+  <!-- right face -->
+  <polygon points="184,88 128,120 128,184 184,152"/>
+  <!-- central connector -->
+  <g>
+    <line x1="128" y1="120" x2="128" y2="184"/>
+    <line x1="128" y1="120" x2="184" y2="88"/>
+    <line x1="128" y1="120" x2="72" y2="88"/>
+  </g>
+
+</svg>
